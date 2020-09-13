@@ -1,0 +1,13 @@
+{
+  "appId": "com.ionic-angular-setup.starter",
+  "appName": "ionic-setup",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
